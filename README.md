@@ -18,8 +18,6 @@
 
 <hr>
 
-<h2 align="center">⚡ Development & Performance</h2>
-
 <div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin-bottom:20px">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=raiderss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raiderss&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
