@@ -31,9 +31,9 @@
     <td style="padding:0;border:none;width:33%;">
       <a href="https://eyestore.tebex.io/category/scripts" style="text-decoration:none;">
         <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
-          <img src="https://i.imgur.com/D4RuYRZ.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Premium Scripts"/>
+          <img src="https://forum-cfx-re.akamaized.net/original/5X/0/e/1/0/0e10a64f89b533ff0b9aa94f0d62dec40d994903.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Premium Scripts"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Scripts</h3>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Argus Carshop</h3>
           </div>
         </div>
       </a>
@@ -41,9 +41,9 @@
     <td style="padding:0;border:none;width:33%;">
       <a href="https://eyestore.tebex.io/category/security" style="text-decoration:none;">
         <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
-          <img src="https://i.imgur.com/kFRGYwl.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Security"/>
+          <img src="https://forum-cfx-re.akamaized.net/original/5X/4/0/0/2/40024f252cda1a516e97e45abd3c988ed8bb726b.jpeg" width="100%" height="40%" style="object-fit:cover;position:absolute;" alt="Security"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Security</h3>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore - ESX] Argus Craft</h3>
           </div>
         </div>
       </a>
@@ -51,9 +51,9 @@
     <td style="padding:0;border:none;width:33%;">
       <a href="https://eyestore.tebex.io/category/ui-ux" style="text-decoration:none;">
         <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
-          <img src="https://i.imgur.com/3Yz4zY5.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="UI/UX"/>
+          <img src="https://forum-cfx-re.akamaized.net/original/5X/5/a/2/f/5a2f0e0942957d1ef3611e02e61670bd40331715.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="UI/UX"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] UI/UX</h3>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Argus Customs</h3>
           </div>
         </div>
       </a>
@@ -63,9 +63,9 @@
     <td style="padding:0;border:none;width:33%;">
       <a href="https://eyestore.tebex.io/category/framework" style="text-decoration:none;">
         <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
-          <img src="https://i.imgur.com/Y7fcXhq.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Framework"/>
+          <img src="https://forum-cfx-re.akamaized.net/original/5X/2/d/e/2/2de2909d70f6e249bfdc4a16ba60d3cf7b98496b.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Framework"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Framework</h3>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Argus Renting</h3>
           </div>
         </div>
       </a>
@@ -73,9 +73,9 @@
     <td style="padding:0;border:none;width:33%;">
       <a href="https://eyestore.tebex.io/category/performance" style="text-decoration:none;">
         <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
-          <img src="https://i.imgur.com/LqHwYYv.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Performance"/>
+          <img src="https://forum-cfx-re.akamaized.net/original/5X/9/f/4/d/9f4d992f064bf29a1c6a744fef11e02043453637.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Performance"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Performance</h3>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Blue Garage</h3>
           </div>
         </div>
       </a>
@@ -83,9 +83,9 @@
     <td style="padding:0;border:none;width:33%;">
       <a href="https://eyestore.tebex.io/category/business" style="text-decoration:none;">
         <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
-          <img src="https://i.imgur.com/HnlzjpR.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Business"/>
+          <img src="https://forum-cfx-re.akamaized.net/original/5X/2/f/3/a/2f3a9a7ae834dbd6935e6a278f31597aa2b4e2fb.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Business"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Business</h3>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Cyber Hud</h3>
           </div>
         </div>
       </a>
