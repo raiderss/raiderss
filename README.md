@@ -18,28 +18,67 @@
 
 <hr>
 
-## 📊 Professional Profile
+## ⌚ Professional Dashboard
 
-```javascript
-{
-  "name": "The Raider",
-  "position": "Senior FiveM Developer & UI/UX Specialist",
-  "expertise": [
-    "Custom Script Development",
-    "Framework Implementation (QBCore/ESX)",
-    "Server Security & Anti-Cheat Solutions",
-    "UI/UX Design & Implementation",
-    "Database Architecture & Optimization",
-    "Server Performance Enhancement"
-  ],
-  "technicalSkills": {
-    "languages": ["Lua", "JavaScript", "HTML/CSS", "SQL", "PHP"],
-    "frameworks": ["QBCore", "ESX", "vRP", "jQuery", "VueJS", "React"],
-    "tools": ["Git", "VSCode", "Figma", "Adobe Suite", "MySQL", "MongoDB"],
-    "servers": ["Windows Server", "Linux", "AWS", "Docker"]
-  }
-}
-```
+<div align="center">
+  <div style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:16px;padding:25px;border:1px solid #64748b;box-shadow:0 10px 25px rgba(2,12,27,0.7);margin:20px auto;max-width:700px;position:relative;overflow:hidden">
+    <!-- Digital Clock -->
+    <div style="display:flex;justify-content:center;align-items:center;margin-bottom:25px">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Current%20Time&query=$.time&url=http://worldtimeapi.org/api/timezone/Etc/UTC&color=0891b2&logo=clock&logoColor=white" alt="Digital Clock"/>
+    </div>
+    
+    <!-- Professional Status -->
+    <div style="display:flex;flex-direction:column;align-items:center;gap:15px;margin-bottom:20px">
+      <div style="display:flex;align-items:center;gap:10px">
+        <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-2ECC71?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+      </div>
+      <div style="display:flex;align-items:center;gap:10px">
+        <img src="https://img.shields.io/badge/Experience-Senior%20FiveM%20Developer-3498DB?style=for-the-badge&logo=expertise&logoColor=white" alt="Experience"/>
+      </div>
+    </div>
+    
+    <!-- Tech Stack -->
+    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:20px">
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <h4 style="margin:0;font-size:16px;color:#e2e8f0;text-align:center">Languages</h4>
+        <div style="display:flex;flex-wrap:wrap;gap:5px;justify-content:center">
+          <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        </div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <h4 style="margin:0;font-size:16px;color:#e2e8f0;text-align:center">Frameworks</h4>
+        <div style="display:flex;flex-wrap:wrap;gap:5px;justify-content:center">
+          <img src="https://img.shields.io/badge/QBCore-3498DB?style=flat-square" alt="QBCore"/>
+          <img src="https://img.shields.io/badge/ESX-2ECC71?style=flat-square" alt="ESX"/>
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/>
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="VueJS"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Current Focus Area -->
+    <div style="margin-top:25px;text-align:center">
+      <h4 style="margin:0 0 10px;font-size:16px;color:#e2e8f0">Current Focus Areas</h4>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center">
+        <img src="https://img.shields.io/badge/UI/UX_Design-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Design"/>
+        <img src="https://img.shields.io/badge/Security_Solutions-FF5700?style=flat-square&logo=hackaday&logoColor=white" alt="Security Solutions"/>
+        <img src="https://img.shields.io/badge/Performance_Optimization-2ECC71?style=flat-square&logo=speedtest&logoColor=white" alt="Performance Optimization"/>
+      </div>
+    </div>
+    
+    <!-- Availability Status -->
+    <div style="margin-top:25px;text-align:center">
+      <a href="https://discord.gg/EkwWvFS">
+        <img src="https://img.shields.io/badge/Contact_for_Projects-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact"/>
+      </a>
+    </div>
+  </div>
+</div>
 
 <h2 align="center">⚡ Development & Performance</h2>
 
