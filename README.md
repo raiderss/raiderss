@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20Raider&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%"/>
   
+  <!-- Matrix Animation -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Matrix Animation"/>
+  
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=FiveM+Senior+Developer;Custom+Script+Developer;UI%2FUX+Designer+%26+Framework+Expert;Server+Security+Specialist;Business+Solutions+Architect" alt="Professional Titles" /></a>
   
@@ -92,7 +95,7 @@
   
   <!-- Service 4: Framework Implementation -->
   <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/framework.png" width="60" alt="FiveM Framework Development"/>
+    <img src="https://img.icons8.com/color/96/000000/settings-3.png" width="60" alt="FiveM Framework Development"/>
     <h3 style="color: #4c8bf5; margin: 10px 0;">Framework Development</h3>
     <p style="font-size: 0.9em;">Expert implementation of QBCore, ESX, or custom frameworks with seamless integration and optimization.</p>
     <div>
@@ -116,7 +119,7 @@
   
   <!-- Service 6: Business Solutions -->
   <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/commercial-development.png" width="60" alt="FiveM Business Solutions"/>
+    <img src="https://img.icons8.com/color/96/000000/briefcase.png" width="60" alt="FiveM Business Solutions"/>
     <h3 style="color: #9b59b6; margin: 10px 0;">Business Solutions</h3>
     <p style="font-size: 0.9em;">Complete business systems for FiveM servers including jobs, economy, property management, and custom mechanics.</p>
     <div>
