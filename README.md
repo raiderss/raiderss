@@ -1,71 +1,112 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c8425c5-c913-4334-a937-b2ca243e2fd0" width="800"/>
-  <h1>Raider | FiveM Developer & UI Designer</h1>
+  <img src="https://github.com/user-attachments/assets/1c8425c5-c913-4334-a937-b2ca243e2fd0" width="100%" alt="Raider FiveM Developer"/>
   
-  [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=_CcALvJ7Dkc)
-  [![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EkwWvFS)
-  [![Tebex Store](https://img.shields.io/badge/Tebex-Store-5CAD3A?style=for-the-badge&logo=shopify&logoColor=white)](https://eyestore.tebex.io/)
+  # The Raider | Professional FiveM Developer
   
-  <p>Passionate FiveM developer with expertise in creating premium scripts, UI systems, and security solutions for roleplay servers</p>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCw11VeGY4MFKItj0FGm7FUQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://discord.gg/EkwWvFS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://eyestore.tebex.io/"><img src="https://img.shields.io/badge/Tebex_Store-5CAD3A?style=for-the-badge&logo=shopify&logoColor=white" alt="Tebex"/></a>
+    <img src="https://img.shields.io/github/followers/raiderss?style=for-the-badge&logo=github&color=236ad3" alt="GitHub Followers"/>
+  </p>
+  
+  <h3>Premium FiveM Scripts, UI Systems, and Security Solutions</h3>
 </div>
 
-## 🚀 About Me
+## ⚡ Who Am I
 
-I'm a professional developer specializing in FiveM server development, UI/UX design, and server security solutions. With years of experience in Lua, JavaScript, HTML/CSS, and framework development, I've helped hundreds of roleplay communities enhance their server experience through custom scripts and modern designs.
+A passionate full-stack developer with expertise in creating premium FiveM scripts, UI frameworks, and security solutions. With over 5 years of experience in Lua, JavaScript, HTML/CSS, and framework development, I've helped hundreds of roleplay communities enhance their server experience.
 
-- 🔭 I'm currently working on advanced FiveM security tools and premium UI frameworks
-- 🌱 I'm constantly learning and implementing the latest web technologies into FiveM interfaces
-- 👯 I collaborate with server owners and development teams worldwide
-- 💬 Ask me about QBCore development, ESX scripting, UI design, or server security
+```javascript
+const raider = {
+  specialization: ["FiveM Development", "UI/UX Design", "Server Security"],
+  languages: ["Lua", "JavaScript", "HTML", "CSS", "SQL"],
+  frameworks: ["QBCore", "ESX", "VueJS", "jQuery"],
+  communities: ["Eyes Store", "FiveM Forum", "QBCore", "ESX"]
+}
+```
 
-## 💻 Technologies & Tools
+## 💻 Tech Stack
 
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-QBCore-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-ESX-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<a href="https://github.com/raiderss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raiderss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raider's GitHub Stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raiderss&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiderss&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak"/>
+</p>
 
-## 🏆 Featured Projects
+## 🏆 Premium Scripts
 
-### Security & Protection
-- [**ES-ANTIDUMP**](https://github.com/raiderss/es-antidump) - Advanced protection against FiveM script dumping and theft
-- [**ES-ANTIBACKDOOR**](https://github.com/raiderss/es-antibackdoor) - Comprehensive backdoor protection for FiveM servers
-- [**FYAC**](https://github.com/raiderss/FYAC) - Premium FiveM anticheat solution with extensive detection capabilities
-
-### UI Systems & Frameworks
-- [**ES-ALPHAHUD**](https://github.com/raiderss/es-alphahud) - Modern and customizable HUD system for FiveM servers
-- [**EYES-STORE-GAME-UI-TEMPLATE**](https://github.com/raiderss/eyes-store-game-ui-template) - Premium gaming website template for server communities
-- [**QB-INVENTORY**](https://github.com/raiderss/qb-inventory) - Enhanced inventory system with modern UI for QBCore
-
-### Roleplay Systems
-- [**ES-GARAGE**](https://github.com/raiderss/es-garage) - Advanced vehicle management system for roleplay servers
-- [**ES-JOBCENTER**](https://github.com/raiderss/es-jobcenter) - Comprehensive job and employment center for QBCore
-- [**ES-RENTACAR**](https://github.com/raiderss/es-rentacar) - Full-featured vehicle rental system for roleplay environments
-- [**QB-MULTICHARACTER**](https://github.com/raiderss/qb-multicharacter) - Enhanced character selection and creation system
-
-### Gameplay Enhancement
-- [**ES-EMOTEMENU**](https://github.com/raiderss/es-emotemenu) - Extensive animation and emote system for player expression
-- [**ES-TREASURE**](https://github.com/raiderss/es-treasure) - Rust-style treasure and looting system for FiveM
-- [**ES-COORDS**](https://github.com/raiderss/es-coords) - Advanced coordinate management tool for developers
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Security & Protection</h3>
+      <ul>
+        <li><a href="https://github.com/raiderss/es-antidump">ES-ANTIDUMP</a> - Advanced script protection system</li>
+        <li><a href="https://github.com/raiderss/es-antibackdoor">ES-ANTIBACKDOOR</a> - Backdoor detection & prevention</li>
+        <li><a href="https://github.com/raiderss/FYAC">FYAC</a> - Comprehensive anti-cheat solution</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">UI Systems & Frameworks</h3>
+      <ul>
+        <li><a href="https://github.com/raiderss/es-alphahud">ES-ALPHAHUD</a> - Modern HUD system</li>
+        <li><a href="https://github.com/raiderss/qb-inventory">QB-INVENTORY</a> - Enhanced inventory UI</li>
+        <li><a href="https://github.com/raiderss/eyes-store-game-ui-template">GAME-UI-TEMPLATE</a> - Website templates</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Roleplay Systems</h3>
+      <ul>
+        <li><a href="https://github.com/raiderss/es-garage">ES-GARAGE</a> - Advanced vehicle management</li>
+        <li><a href="https://github.com/raiderss/es-jobcenter">ES-JOBCENTER</a> - Comprehensive employment system</li>
+        <li><a href="https://github.com/raiderss/es-rentacar">ES-RENTACAR</a> - Vehicle rental business</li>
+        <li><a href="https://github.com/raiderss/qb-multicharacter">QB-MULTICHARACTER</a> - Character system</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Gameplay Enhancements</h3>
+      <ul>
+        <li><a href="https://github.com/raiderss/es-emotemenu">ES-EMOTEMENU</a> - Extensive animation system</li>
+        <li><a href="https://github.com/raiderss/es-treasure">ES-TREASURE</a> - Rust-style looting system</li>
+        <li><a href="https://github.com/raiderss/es-coords">ES-COORDS</a> - Developer coordinate tools</li>
+        <li><a href="https://github.com/raiderss/es-tattoos">ES-TATTOOS</a> - Advanced tattoo shop</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect With Me
 
-- **YouTube**: [Eye Store Channel](https://www.youtube.com/channel/UCw11VeGY4MFKItj0FGm7FUQ)
-- **Discord**: [Eye Store Community](https://discord.gg/EkwWvFS)
-- **Tebex**: [Eye Store Products](https://eyestore.tebex.io/)
+<p align="center">
+  <a href="https://discord.gg/EkwWvFS">
+    <img src="https://img.shields.io/badge/Discord-EYES_STORE-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://eyestore.tebex.io/">
+    <img src="https://img.shields.io/badge/Tebex-STORE-00A2FF?style=for-the-badge&logo=shopify&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCw11VeGY4MFKItj0FGm7FUQ">
+    <img src="https://img.shields.io/badge/YouTube-CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
-## 🔍 Keywords
+---
 
-fivem developer, qbcore scripts, fivem scripts, esx developer, fivem ui designer, server security, roleplay scripts, gaming interfaces, lua programmer, web development, javascript developer, gta5 mods, fivem resources, premium scripts, anticheat development, gaming ui, fivem framework, character systems, inventory systems, job systems, vehicle scripts, security tools, adsense compatible, seo optimized, fivem tutorials
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raiderss&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<!-- GitHub Profile SEO - Professional FiveM Developer, UI/UX Designer, Security Expert -->
+<!-- SEO Keywords: fivem developer, qbcore scripts, fivem scripts, esx developer, fivem ui designer, server security, roleplay scripts, gaming interfaces, lua programmer, web development, javascript developer, gta5 mods, fivem resources, premium scripts, anticheat development, gaming ui, fivem framework, adsense compatible, seo optimized, fivem tutorials -->
