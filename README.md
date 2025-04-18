@@ -47,6 +47,171 @@ const raider = {
 };
 ```
 
+<!-- Mini Game Section -->
+<h2 align="center">🎮 Raider Runner - Mini Game</h2>
+<p align="center">Try my mini ASCII game! Press Space to start and jump.</p>
+
+<pre align="center" id="game">
++-------------------------------------------------------------------+
+|                                                                   |
+|                                                                   |
+|                                 🦖                                |
+|                 🌵                               🌵              |
++-------------------------------------------------------------------+
+</pre>
+
+<details>
+  <summary align="center"><b>👆 Click to view game instructions and code</b></summary>
+
+```javascript
+// Raider Runner Game - Offline Dinosaur Runner Clone
+// Created by The Raider for FiveM servers
+// Visit my GitHub: https://github.com/raiderss
+
+class Game {
+  constructor() {
+    this.canvas = document.createElement('canvas');
+    this.ctx = this.canvas.getContext('2d');
+    this.width = 800;
+    this.height = 200;
+    this.dino = { x: 50, y: 150, width: 40, height: 60, jumping: false, yVelocity: 0 };
+    this.obstacles = [];
+    this.score = 0;
+    this.speed = 5;
+    this.gameOver = false;
+    this.lastObstacleTime = 0;
+    
+    document.body.appendChild(this.canvas);
+    document.addEventListener('keydown', this.handleKeyDown.bind(this));
+    
+    this.mainLoop();
+  }
+  
+  handleKeyDown(e) {
+    if (e.code === 'Space' && !this.dino.jumping && !this.gameOver) {
+      this.dino.jumping = true;
+      this.dino.yVelocity = -12;
+    } else if (e.code === 'Space' && this.gameOver) {
+      this.reset();
+    }
+  }
+  
+  update() {
+    // Update dino
+    if (this.dino.jumping) {
+      this.dino.y += this.dino.yVelocity;
+      this.dino.yVelocity += 0.8;
+      
+      if (this.dino.y >= 150) {
+        this.dino.y = 150;
+        this.dino.jumping = false;
+      }
+    }
+    
+    // Generate obstacles
+    const now = Date.now();
+    if (now - this.lastObstacleTime > 1500 + Math.random() * 1000) {
+      this.obstacles.push({
+        x: this.width,
+        y: 150,
+        width: 20 + Math.random() * 30,
+        height: 40 + Math.random() * 20
+      });
+      this.lastObstacleTime = now;
+    }
+    
+    // Update obstacles
+    for (let i = 0; i < this.obstacles.length; i++) {
+      const obs = this.obstacles[i];
+      obs.x -= this.speed;
+      
+      // Check collision
+      if (
+        this.dino.x < obs.x + obs.width &&
+        this.dino.x + this.dino.width > obs.x &&
+        this.dino.y < obs.y + obs.height &&
+        this.dino.y + this.dino.height > obs.y
+      ) {
+        this.gameOver = true;
+      }
+      
+      // Remove off-screen obstacles
+      if (obs.x + obs.width < 0) {
+        this.obstacles.splice(i, 1);
+        i--;
+        this.score++;
+      }
+    }
+    
+    // Increase speed over time
+    if (this.score > 0 && this.score % 5 === 0) {
+      this.speed = 5 + Math.floor(this.score / 5);
+    }
+  }
+  
+  render() {
+    // Clear canvas
+    this.ctx.clearRect(0, 0, this.width, this.height);
+    
+    // Draw ground
+    this.ctx.beginPath();
+    this.ctx.moveTo(0, 180);
+    this.ctx.lineTo(this.width, 180);
+    this.ctx.stroke();
+    
+    // Draw dino
+    this.ctx.fillRect(this.dino.x, this.dino.y, this.dino.width, this.dino.height);
+    
+    // Draw obstacles
+    for (const obs of this.obstacles) {
+      this.ctx.fillRect(obs.x, obs.y, obs.width, obs.height);
+    }
+    
+    // Draw score
+    this.ctx.font = '20px Arial';
+    this.ctx.fillText(`Score: ${this.score}`, 20, 30);
+    
+    // Game over screen
+    if (this.gameOver) {
+      this.ctx.fillStyle = 'rgba(0, 0, 0, 0.5)';
+      this.ctx.fillRect(0, 0, this.width, this.height);
+      
+      this.ctx.fillStyle = 'white';
+      this.ctx.font = '40px Arial';
+      this.ctx.fillText('Game Over', this.width / 2 - 100, this.height / 2);
+      
+      this.ctx.font = '20px Arial';
+      this.ctx.fillText('Press Space to restart', this.width / 2 - 100, this.height / 2 + 40);
+    }
+  }
+  
+  mainLoop() {
+    if (!this.gameOver) {
+      this.update();
+    }
+    
+    this.render();
+    requestAnimationFrame(this.mainLoop.bind(this));
+  }
+  
+  reset() {
+    this.dino = { x: 50, y: 150, width: 40, height: 60, jumping: false, yVelocity: 0 };
+    this.obstacles = [];
+    this.score = 0;
+    this.speed = 5;
+    this.gameOver = false;
+  }
+}
+
+// Start game
+window.onload = () => {
+  new Game();
+};
+```
+
+<p align="center">To play the full game, visit <a href="https://eyestore.tebex.io/">my Tebex store</a> and check out my interactive UI scripts!</p>
+</details>
+
 <!-- Stats Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raiderss&show_icons=true&theme=radical&hide_border=true&custom_title=The%20Raider%27s%20GitHub%20Stats" alt="GitHub Stats" height="170"/>
