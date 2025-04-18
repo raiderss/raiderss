@@ -18,29 +18,6 @@
 
 <hr>
 
-## 📊 Professional Profile
-
-```javascript
-{
-  "name": "The Raider",
-  "position": "Senior FiveM Developer & UI/UX Specialist",
-  "expertise": [
-    "Custom Script Development",
-    "Framework Implementation (QBCore/ESX)",
-    "Server Security & Anti-Cheat Solutions",
-    "UI/UX Design & Implementation",
-    "Database Architecture & Optimization",
-    "Server Performance Enhancement"
-  ],
-  "technicalSkills": {
-    "languages": ["Lua", "JavaScript", "HTML/CSS", "SQL", "PHP"],
-    "frameworks": ["QBCore", "ESX", "vRP", "jQuery", "VueJS", "React"],
-    "tools": ["Git", "VSCode", "Figma", "Adobe Suite", "MySQL", "MongoDB"],
-    "servers": ["Windows Server", "Linux", "AWS", "Docker"]
-  }
-}
-```
-
 <h2 align="center">⚡ Development & Performance</h2>
 
 <div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin-bottom:20px">
