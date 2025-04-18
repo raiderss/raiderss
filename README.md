@@ -37,170 +37,95 @@
     "frameworks": ["QBCore", "ESX", "vRP", "jQuery", "VueJS", "React"],
     "tools": ["Git", "VSCode", "Figma", "Adobe Suite", "MySQL", "MongoDB"],
     "servers": ["Windows Server", "Linux", "AWS", "Docker"]
-  },
-  "businessCapabilities": {
-    "consultancy": "Technical architecture and implementation planning",
-    "customDevelopment": "Bespoke script solutions tailored to business needs",
-    "maintenance": "Ongoing support and performance optimization",
-    "training": "Technical documentation and knowledge transfer"
   }
 }
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiderss&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Development%20Statistics" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiderss&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<h2 align="center">⚡ Development & Performance</h2>
+
+<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin-bottom:20px">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raiderss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raiderss&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
 </div>
 
-<hr>
+<h2 align="center">💼 Premium FiveM Services</h2>
 
-<h2 align="center">💼 Premium FiveM Professional Services</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:15px;margin:20px 0">
+  <!-- 1: Custom Script Development -->
+  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #1E3A8A;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
+    <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50" height="50" alt="Custom Scripts"/>
+    <h3 style="color:#38bdf8;font-size:18px;margin:10px 0;font-weight:600">Custom Script Development</h3>
+    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Tailored FiveM scripts with optimized performance and scalable architecture.</p>
+    <span><img src="https://img.shields.io/badge/FiveM-Scripts-4B32C3?style=flat-square&labelColor=0f172a" alt="FiveM Scripts"/></span>
+  </div>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 20px;">
-  <!-- Service 1: Custom Script Development -->
-  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/code.png" width="60" alt="Custom Scripts for FiveM"/>
-    <h3 style="color: #4fc3f7; margin: 10px 0;">Custom Script Development</h3>
-    <p style="font-size: 0.9em;">Bespoke FiveM scripts tailored to your server's exact needs with optimized performance and scalable solutions.</p>
-    <div>
-      <img src="https://img.shields.io/badge/FiveM-Scripts-4B32C3?style=flat-square" alt="FiveM Scripts"/>
-      <img src="https://img.shields.io/badge/QBCore-Compatible-22A7F0?style=flat-square" alt="QBCore Compatible"/>
-      <img src="https://img.shields.io/badge/ESX-Compatible-98CE00?style=flat-square" alt="ESX Compatible"/>
-    </div>
+  <!-- 2: Security Solutions -->
+  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #9F1239;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
+    <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50" height="50" alt="FiveM Security"/>
+    <h3 style="color:#f43f5e;font-size:18px;margin:10px 0;font-weight:600">Server Security & Anti-Cheat</h3>
+    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Protect your server from exploits, cheaters, and script vulnerabilities.</p>
+    <span><img src="https://img.shields.io/badge/Anti--Cheat-System-E94057?style=flat-square&labelColor=0f172a" alt="Anti-Cheat"/></span>
   </div>
-  
-  <!-- Service 2: Security Solutions -->
-  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60" alt="FiveM Security Solutions"/>
-    <h3 style="color: #e94057; margin: 10px 0;">Server Security & Anti-Cheat</h3>
-    <p style="font-size: 0.9em;">Comprehensive security solutions to protect your server from exploits, cheaters, and script vulnerabilities.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Anti--Cheat-System-E94057?style=flat-square" alt="Anti-Cheat"/>
-      <img src="https://img.shields.io/badge/Script-Protection-FD4556?style=flat-square" alt="Script Protection"/>
-      <img src="https://img.shields.io/badge/Exploit-Prevention-A6051A?style=flat-square" alt="Exploit Prevention"/>
-    </div>
+
+  <!-- 3: UI/UX Design -->
+  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #0891b2;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
+    <img src="https://img.icons8.com/fluency/96/000000/web-design.png" width="50" height="50" alt="FiveM UI Design"/>
+    <h3 style="color:#06b6d4;font-size:18px;margin:10px 0;font-weight:600">UI/UX Design & Development</h3>
+    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Modern, responsive interfaces with seamless user experiences.</p>
+    <span><img src="https://img.shields.io/badge/NUI-Design-00C4CC?style=flat-square&labelColor=0f172a" alt="NUI Design"/></span>
   </div>
-  
-  <!-- Service 3: UI/UX Design -->
-  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/web-design.png" width="60" alt="FiveM UI Design"/>
-    <h3 style="color: #00c4cc; margin: 10px 0;">UI/UX Design & Development</h3>
-    <p style="font-size: 0.9em;">Modern, responsive interfaces for your FiveM server with custom designs and seamless user experiences.</p>
-    <div>
-      <img src="https://img.shields.io/badge/NUI-Design-00C4CC?style=flat-square" alt="NUI Design"/>
-      <img src="https://img.shields.io/badge/Responsive-Interface-2BBAC5?style=flat-square" alt="Responsive Interface"/>
-      <img src="https://img.shields.io/badge/User-Experience-00A4BC?style=flat-square" alt="User Experience"/>
-    </div>
+
+  <!-- 4: Framework Development -->
+  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #1e40af;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
+    <img src="https://img.icons8.com/fluency/96/000000/settings-3.png" width="50" height="50" alt="FiveM Framework"/>
+    <h3 style="color:#3b82f6;font-size:18px;margin:10px 0;font-weight:600">Framework Development</h3>
+    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Expert implementation of QBCore, ESX, or custom frameworks.</p>
+    <span><img src="https://img.shields.io/badge/QBCore-Expert-4C8BF5?style=flat-square&labelColor=0f172a" alt="QBCore Expert"/></span>
   </div>
-  
-  <!-- Service 4: Framework Implementation -->
-  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/settings-3.png" width="60" alt="FiveM Framework Development"/>
-    <h3 style="color: #4c8bf5; margin: 10px 0;">Framework Development</h3>
-    <p style="font-size: 0.9em;">Expert implementation of QBCore, ESX, or custom frameworks with seamless integration and optimization.</p>
-    <div>
-      <img src="https://img.shields.io/badge/QBCore-Expert-4C8BF5?style=flat-square" alt="QBCore Expert"/>
-      <img src="https://img.shields.io/badge/ESX-Integration-3A7BD5?style=flat-square" alt="ESX Integration"/>
-      <img src="https://img.shields.io/badge/Custom-Frameworks-2766CE?style=flat-square" alt="Custom Frameworks"/>
-    </div>
+
+  <!-- 5: Performance Optimization -->
+  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #166534;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
+    <img src="https://img.icons8.com/fluency/96/000000/speed.png" width="50" height="50" alt="FiveM Optimization"/>
+    <h3 style="color:#22c55e;font-size:18px;margin:10px 0;font-weight:600">Performance Optimization</h3>
+    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Maximize server performance with resource optimization.</p>
+    <span><img src="https://img.shields.io/badge/Resource-Optimization-2ECC71?style=flat-square&labelColor=0f172a" alt="Resource Optimization"/></span>
   </div>
-  
-  <!-- Service 5: Server Optimization -->
-  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/speed.png" width="60" alt="FiveM Server Optimization"/>
-    <h3 style="color: #2ecc71; margin: 10px 0;">Performance Optimization</h3>
-    <p style="font-size: 0.9em;">Maximize your server's performance with resource optimization, script refactoring, and infrastructure improvements.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Resource-Optimization-2ECC71?style=flat-square" alt="Resource Optimization"/>
-      <img src="https://img.shields.io/badge/Script-Efficiency-27AE60?style=flat-square" alt="Script Efficiency"/>
-      <img src="https://img.shields.io/badge/FPS-Enhancement-219653?style=flat-square" alt="FPS Enhancement"/>
-    </div>
-  </div>
-  
-  <!-- Service 6: Business Solutions -->
-  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://img.icons8.com/color/96/000000/briefcase.png" width="60" alt="FiveM Business Solutions"/>
-    <h3 style="color: #9b59b6; margin: 10px 0;">Business Solutions</h3>
-    <p style="font-size: 0.9em;">Complete business systems for FiveM servers including jobs, economy, property management, and custom mechanics.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Economy-Systems-9B59B6?style=flat-square" alt="Economy Systems"/>
-      <img src="https://img.shields.io/badge/Job-Mechanics-8E44AD?style=flat-square" alt="Job Mechanics"/>
-      <img src="https://img.shields.io/badge/Property-Management-7D3C98?style=flat-square" alt="Property Management"/>
-    </div>
+
+  <!-- 6: Business Solutions -->
+  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #7e22ce;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
+    <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50" height="50" alt="FiveM Business"/>
+    <h3 style="color:#a855f7;font-size:18px;margin:10px 0;font-weight:600">Business Solutions</h3>
+    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Complete business systems for FiveM servers with economy integration.</p>
+    <span><img src="https://img.shields.io/badge/Economy-Systems-9B59B6?style=flat-square&labelColor=0f172a" alt="Economy Systems"/></span>
   </div>
 </div>
 
-<br>
-
-<div align="center">
-  <h3>🌟 Full-Service FiveM Development Solutions 🌟</h3>
-  <p>From concept to deployment, we deliver end-to-end services for your FiveM server's success.</p>
-  <a href="https://eyestore.tebex.io/">
+<div align="center" style="margin:25px 0;background:linear-gradient(90deg,#0f172a,#1e1e2f,#0f172a);padding:20px;border-radius:12px;box-shadow:0 8px 32px rgba(31,38,135,0.37);border:1px solid rgba(255,255,255,0.1)">
+  <h3 style="margin:0 0 15px;color:#f8fafc;font-size:20px;letter-spacing:1px">🚀 Full-Service Development Solutions</h3>
+  <p style="margin:0 0 20px;font-size:14px;opacity:0.8;max-width:580px">From concept to deployment, delivering end-to-end services for your server's success.</p>
+  <a href="https://eyestore.tebex.io/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/View_Service_Catalog-4A90E2?style=for-the-badge&logo=shopify&logoColor=white" alt="View Services"/>
   </a>
 </div>
 
-<hr>
+<h2 align="center">🏆 Featured Solutions</h2>
 
-## 🏆 Featured Solutions
-
-<div align="center">
-  <a href="https://github.com/raiderss/es-antidump"><img src="https://img.shields.io/badge/ES--ANTIDUMP-Security-FF5700?style=flat-square" alt="ES-ANTIDUMP"/></a>
-  <a href="https://github.com/raiderss/FYAC"><img src="https://img.shields.io/badge/FYAC-Anticheat-FF0000?style=flat-square" alt="FYAC"/></a>
-  <a href="https://github.com/raiderss/es-alphahud"><img src="https://img.shields.io/badge/ES--ALPHAHUD-Interface-00C4CC?style=flat-square" alt="ES-ALPHAHUD"/></a>
-  <a href="https://github.com/raiderss/qb-inventory"><img src="https://img.shields.io/badge/QB--INVENTORY-UI-4C8EDA?style=flat-square" alt="QB-INVENTORY"/></a>
-  <a href="https://github.com/raiderss/es-jobcenter"><img src="https://img.shields.io/badge/ES--JOBCENTER-Economy-2ECC71?style=flat-square" alt="ES-JOBCENTER"/></a>
-  <a href="https://github.com/raiderss/es-emotemenu"><img src="https://img.shields.io/badge/ES--EMOTEMENU-Animation-9B59B6?style=flat-square" alt="ES-EMOTEMENU"/></a>
-  <a href="https://github.com/raiderss/es-garage"><img src="https://img.shields.io/badge/ES--GARAGE-Vehicles-FF9900?style=flat-square" alt="ES-GARAGE"/></a>
-  <a href="https://github.com/raiderss/qb-multicharacter"><img src="https://img.shields.io/badge/QB--MULTICHARACTER-Identity-8E44AD?style=flat-square" alt="QB-MULTICHARACTER"/></a>
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:15px 0 25px">
+  <a href="https://github.com/raiderss/es-antidump"><img src="https://img.shields.io/badge/ES--ANTIDUMP-Security-FF5700?style=for-the-badge&labelColor=0D1117" alt="ES-ANTIDUMP"/></a>
+  <a href="https://github.com/raiderss/FYAC"><img src="https://img.shields.io/badge/FYAC-Anticheat-FF0000?style=for-the-badge&labelColor=0D1117" alt="FYAC"/></a>
+  <a href="https://github.com/raiderss/es-alphahud"><img src="https://img.shields.io/badge/ES--ALPHAHUD-Interface-00C4CC?style=for-the-badge&labelColor=0D1117" alt="ES-ALPHAHUD"/></a>
+  <a href="https://github.com/raiderss/qb-inventory"><img src="https://img.shields.io/badge/QB--INVENTORY-UI-4C8EDA?style=for-the-badge&labelColor=0D1117" alt="QB-INVENTORY"/></a>
+  <a href="https://github.com/raiderss/es-jobcenter"><img src="https://img.shields.io/badge/ES--JOBCENTER-Economy-2ECC71?style=for-the-badge&labelColor=0D1117" alt="ES-JOBCENTER"/></a>
+  <a href="https://github.com/raiderss/es-emotemenu"><img src="https://img.shields.io/badge/ES--EMOTEMENU-Animation-9B59B6?style=for-the-badge&labelColor=0D1117" alt="ES-EMOTEMENU"/></a>
+  <a href="https://github.com/raiderss/es-garage"><img src="https://img.shields.io/badge/ES--GARAGE-Vehicles-FF9900?style=for-the-badge&labelColor=0D1117" alt="ES-GARAGE"/></a>
+  <a href="https://github.com/raiderss/qb-multicharacter"><img src="https://img.shields.io/badge/QB--MULTICHARACTER-Identity-8E44AD?style=for-the-badge&labelColor=0D1117" alt="QB-MULTICHARACTER"/></a>
 </div>
 
-<details>
-  <summary><h3>📌 Technical Portfolio</h3></summary>
-
-  <table>
-    <tr>
-      <td><b>Security & Protection</b></td>
-      <td>
-        <a href="https://github.com/raiderss/es-antidump">ES-ANTIDUMP</a> • 
-        <a href="https://github.com/raiderss/es-antibackdoor">ES-ANTIBACKDOOR</a> • 
-        <a href="https://github.com/raiderss/FYAC">FYAC</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>UI & Framework</b></td>
-      <td>
-        <a href="https://github.com/raiderss/es-alphahud">ES-ALPHAHUD</a> • 
-        <a href="https://github.com/raiderss/qb-inventory">QB-INVENTORY</a> • 
-        <a href="https://github.com/raiderss/eyes-store-game-ui-template">UI-TEMPLATE</a> • 
-        <a href="https://github.com/raiderss/qb-multicharacter">QB-MULTICHARACTER</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Economy & Vehicles</b></td>
-      <td>
-        <a href="https://github.com/raiderss/es-garage">ES-GARAGE</a> • 
-        <a href="https://github.com/raiderss/es-jobcenter">ES-JOBCENTER</a> • 
-        <a href="https://github.com/raiderss/es-rentacar">ES-RENTACAR</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Developer Tools</b></td>
-      <td>
-        <a href="https://github.com/raiderss/es-emotemenu">ES-EMOTEMENU</a> • 
-        <a href="https://github.com/raiderss/es-treasure">ES-TREASURE</a> • 
-        <a href="https://github.com/raiderss/es-coords">ES-COORDS</a> • 
-        <a href="https://github.com/raiderss/es-tattoos">ES-TATTOOS</a>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<hr>
+<div style="background:linear-gradient(to right,transparent,#1E293B,transparent);height:1px;margin:25px 0"></div>
 
 <h2 align="center">📫 Professional Inquiries</h2>
 
-<div align="center">
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:15px;margin:15px 0 30px">
   <a href="https://discord.gg/EkwWvFS">
     <img src="https://img.shields.io/badge/Discord-Business_Inquiries-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
