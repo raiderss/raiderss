@@ -1,64 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20Raider&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%"/>
   
-  <!-- Bio Section with Modern Design -->
-  <div style="background:linear-gradient(135deg,#0d1117,#161b22);border-radius:10px;padding:20px;margin:10px 0 20px;border:1px solid #30363d;max-width:800px">
-    <div style="display:flex;align-items:center;justify-content:center;margin-bottom:15px">
-      <img src="https://avatars.githubusercontent.com/u/53000629" width="90" height="90" style="border-radius:50%;border:2px solid #58a6ff" alt="The Raider"/>
-      <div style="margin-left:20px;text-align:left">
-        <h2 style="margin:0;color:#c9d1d9;font-size:26px">Senior FiveM Developer</h2>
-        <p style="margin:5px 0;color:#8b949e;font-size:16px">Master of Lua, JavaScript, CSS/HTML & Framework Expert</p>
-        <div>
-          <span style="background:#0d1117;color:#58a6ff;padding:4px 8px;border-radius:5px;font-size:12px;margin-right:5px">Custom Scripts</span>
-          <span style="background:#0d1117;color:#ec775c;padding:4px 8px;border-radius:5px;font-size:12px;margin-right:5px">UI Design</span>
-          <span style="background:#0d1117;color:#7ee787;padding:4px 8px;border-radius:5px;font-size:12px">Security Expert</span>
-        </div>
-      </div>
-    </div>
-    <p style="color:#8b949e;line-height:1.5;max-width:750px">Creating premium FiveM experiences with a focus on performance and innovation. Specializing in script development, UI/UX design, and server security solutions for roleplay communities worldwide.</p>
-    <a href="https://eyestore.tebex.io/" style="background:linear-gradient(90deg,#58a6ff,#0d9ce5);color:#ffffff;text-decoration:none;padding:8px 16px;border-radius:6px;font-weight:600;display:inline-block;margin-top:10px;letter-spacing:0.5px;box-shadow:0 4px 14px rgba(0,0,0,0.25)">Visit My Portfolio →</a>
-  </div>
-  
   <!-- Matrix Animation -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Matrix Animation"/>
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=FiveM+Senior+Developer;Custom+Script+Developer;UI%2FUX+Designer+%26+Framework+Expert;Server+Security+Specialist;Business+Solutions+Architect" alt="Professional Titles" /></a>
-  
-  <!-- Achievements Section -->
-  <div style="margin:25px auto;max-width:800px">
-    <h2 style="color:#c9d1d9;border-bottom:1px solid #30363d;padding-bottom:10px">🏆 Achievements & Highlights</h2>
-    
-    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:15px;margin:20px 0">
-      <!-- Achievement 1 -->
-      <div style="background:linear-gradient(135deg,#111927,#1e2735);border-radius:8px;padding:15px;width:180px;text-align:center;border:1px solid #30363d;box-shadow:0 4px 6px rgba(0,0,0,0.1)">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="40" alt="Star Achievement"/>
-        <h3 style="margin:10px 0;color:#58a6ff;font-size:16px">Starstruck</h3>
-        <p style="color:#8b949e;font-size:12px;margin:0">Created repositories that earned multiple stars from the community</p>
-      </div>
-      
-      <!-- Achievement 2 -->
-      <div style="background:linear-gradient(135deg,#111927,#1e2735);border-radius:8px;padding:15px;width:180px;text-align:center;border:1px solid #30363d;box-shadow:0 4px 6px rgba(0,0,0,0.1)">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" alt="Developer Achievement"/>
-        <h3 style="margin:10px 0;color:#58a6ff;font-size:16px">Developer Program</h3>
-        <p style="color:#8b949e;font-size:12px;margin:0">Active member of the GitHub Developer Program</p>
-      </div>
-      
-      <!-- Achievement 3 -->
-      <div style="background:linear-gradient(135deg,#111927,#1e2735);border-radius:8px;padding:15px;width:180px;text-align:center;border:1px solid #30363d;box-shadow:0 4px 6px rgba(0,0,0,0.1)">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="40" alt="Premium Achievement"/>
-        <h3 style="margin:10px 0;color:#58a6ff;font-size:16px">Premium Creator</h3>
-        <p style="color:#8b949e;font-size:12px;margin:0">Developed premium scripts with high user satisfaction</p>
-      </div>
-      
-      <!-- Achievement 4 -->
-      <div style="background:linear-gradient(135deg,#111927,#1e2735);border-radius:8px;padding:15px;width:180px;text-align:center;border:1px solid #30363d;box-shadow:0 4px 6px rgba(0,0,0,0.1)">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" alt="Growth Achievement"/>
-        <h3 style="margin:10px 0;color:#58a6ff;font-size:16px">Community Leader</h3>
-        <p style="color:#8b949e;font-size:12px;margin:0">Building and supporting the FiveM development community</p>
-      </div>
-    </div>
-  </div>
   
   <!-- Badges -->
   <p>
