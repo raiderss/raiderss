@@ -4,6 +4,15 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=FiveM%20Expert&fontSize=42&fontAlignY=35&desc=Senior%20Developer%20%26%20UI/UX%20Specialist&descAlignY=55&descSize=18&animation=fadeIn&fontColor=fff)
 
+<!-- Live Clock Widget -->
+<a href="https://time.is/UTC" id="time_is_link" rel="nofollow" style="font-size:24px;font-weight:bold;color:#58A6FF;text-decoration:none;background:#0D1117;padding:10px 20px;border-radius:8px;border:1px solid #1A1B26;box-shadow:0 2px 10px rgba(0,0,0,0.15);display:inline-block;margin:15px 0;">
+<span id="UTC_z71b" style="font-family:'JetBrains Mono',monospace;"></span>
+</a>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({UTC_z71b:{template:"TIME<br>DATE", date_format:"dayname, monthname dnum, year", time_format:"12hours:minutes:seconds AMPM", sun_format:"sunrise: srhour:srminute srAMPM &nbsp; &nbsp; sunset: sshour:ssminute ssAMPM"}});
+</script>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=FiveM+Senior+Developer;Custom+Script+Development;UI%2FUX+Design+%26+Framework+Expert;Server+Security+Specialist;Business+Solutions+Architect)](https://git.io/typing-svg)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EkwWvFS)
