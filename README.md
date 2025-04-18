@@ -29,40 +29,31 @@
 <table align="center" style="border-collapse:separate;border-spacing:10px;background:transparent;border:none;">
   <tr>
     <td style="padding:0;border:none;width:33%;">
-      <a href="https://eyestore.tebex.io/" style="text-decoration:none;">
-        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;">
+      <a href="https://eyestore.tebex.io/category/scripts" style="text-decoration:none;">
+        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
           <img src="https://i.imgur.com/D4RuYRZ.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Premium Scripts"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <h3 style="margin:0;color:#fff;font-size:14px;">[QBCore-ESX] Scripts</h3>
-              <div style="font-size:12px;color:#9ca3af;">$299</div>
-            </div>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Scripts</h3>
           </div>
         </div>
       </a>
     </td>
     <td style="padding:0;border:none;width:33%;">
-      <a href="https://eyestore.tebex.io/" style="text-decoration:none;">
-        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;">
+      <a href="https://eyestore.tebex.io/category/security" style="text-decoration:none;">
+        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
           <img src="https://i.imgur.com/kFRGYwl.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Security"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <h3 style="margin:0;color:#fff;font-size:14px;">[QBCore-ESX] Security</h3>
-              <div style="font-size:12px;color:#9ca3af;">$349</div>
-            </div>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Security</h3>
           </div>
         </div>
       </a>
     </td>
     <td style="padding:0;border:none;width:33%;">
-      <a href="https://eyestore.tebex.io/" style="text-decoration:none;">
-        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;">
+      <a href="https://eyestore.tebex.io/category/ui-ux" style="text-decoration:none;">
+        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
           <img src="https://i.imgur.com/3Yz4zY5.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="UI/UX"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <h3 style="margin:0;color:#fff;font-size:14px;">[QBCore-ESX] UI/UX</h3>
-              <div style="font-size:12px;color:#9ca3af;">$249</div>
-            </div>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] UI/UX</h3>
           </div>
         </div>
       </a>
@@ -70,40 +61,31 @@
   </tr>
   <tr>
     <td style="padding:0;border:none;width:33%;">
-      <a href="https://eyestore.tebex.io/" style="text-decoration:none;">
-        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;">
+      <a href="https://eyestore.tebex.io/category/framework" style="text-decoration:none;">
+        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
           <img src="https://i.imgur.com/Y7fcXhq.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Framework"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <h3 style="margin:0;color:#fff;font-size:14px;">[QBCore-ESX] Framework</h3>
-              <div style="font-size:12px;color:#9ca3af;">$499</div>
-            </div>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Framework</h3>
           </div>
         </div>
       </a>
     </td>
     <td style="padding:0;border:none;width:33%;">
-      <a href="https://eyestore.tebex.io/" style="text-decoration:none;">
-        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;">
+      <a href="https://eyestore.tebex.io/category/performance" style="text-decoration:none;">
+        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
           <img src="https://i.imgur.com/LqHwYYv.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Performance"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <h3 style="margin:0;color:#fff;font-size:14px;">[QBCore-ESX] Performance</h3>
-              <div style="font-size:12px;color:#9ca3af;">$199</div>
-            </div>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Performance</h3>
           </div>
         </div>
       </a>
     </td>
     <td style="padding:0;border:none;width:33%;">
-      <a href="https://eyestore.tebex.io/" style="text-decoration:none;">
-        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;">
+      <a href="https://eyestore.tebex.io/category/business" style="text-decoration:none;">
+        <div style="background-color:#111827;border-radius:8px;overflow:hidden;height:130px;position:relative;border:1px solid #1e293b;transition:transform 0.2s,border-color 0.2s;">
           <img src="https://i.imgur.com/HnlzjpR.jpeg" width="100%" height="100%" style="object-fit:cover;position:absolute;" alt="Business"/>
           <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:rgba(13,17,23,0.85);">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <h3 style="margin:0;color:#fff;font-size:14px;">[QBCore-ESX] Business</h3>
-              <div style="font-size:12px;color:#9ca3af;">$399</div>
-            </div>
+            <h3 style="margin:0;color:#fff;font-size:14px;text-align:center;">[QBCore-ESX] Business</h3>
           </div>
         </div>
       </a>
