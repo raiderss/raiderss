@@ -51,66 +51,91 @@
 
 <hr>
 
-## 💼 Professional Services
+<h2 align="center">💼 Premium FiveM Professional Services</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Custom Development</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Custom_Scripts-4B32C3?style=for-the-badge&logo=lua&logoColor=white" alt="Custom Scripts"/>
-      </p>
-      <ul>
-        <li>Bespoke feature development</li>
-        <li>Framework implementation</li>
-        <li>Integration with existing systems</li>
-        <li>Complete server development</li>
-        <li>Fully documented codebase</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Security Services</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security_Solutions-E94057?style=for-the-badge&logo=shield&logoColor=white" alt="Security"/>
-      </p>
-      <ul>
-        <li>Anti-cheat implementation</li>
-        <li>Vulnerability assessment</li>
-        <li>Resource leak detection</li>
-        <li>Server hardening</li>
-        <li>Performance optimization</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">UI/UX Development</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Interface_Design-00C4CC?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
-      </p>
-      <ul>
-        <li>Modern interface design</li>
-        <li>Responsive NUI implementations</li>
-        <li>Framework-agnostic solutions</li>
-        <li>Streamlined user experience</li>
-        <li>Performance-optimized animations</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Technical Consultancy</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Expert_Consultation-4C8BF5?style=for-the-badge&logo=expertise&logoColor=white" alt="Consultancy"/>
-      </p>
-      <ul>
-        <li>Server architecture planning</li>
-        <li>Resource optimization</li>
-        <li>Database design & implementation</li>
-        <li>Technical requirements analysis</li>
-        <li>Performance benchmarking</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 20px;">
+  <!-- Service 1: Custom Script Development -->
+  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/000000/code.png" width="60" alt="Custom Scripts for FiveM"/>
+    <h3 style="color: #4fc3f7; margin: 10px 0;">Custom Script Development</h3>
+    <p style="font-size: 0.9em;">Bespoke FiveM scripts tailored to your server's exact needs with optimized performance and scalable solutions.</p>
+    <div>
+      <img src="https://img.shields.io/badge/FiveM-Scripts-4B32C3?style=flat-square" alt="FiveM Scripts"/>
+      <img src="https://img.shields.io/badge/QBCore-Compatible-22A7F0?style=flat-square" alt="QBCore Compatible"/>
+      <img src="https://img.shields.io/badge/ESX-Compatible-98CE00?style=flat-square" alt="ESX Compatible"/>
+    </div>
+  </div>
+  
+  <!-- Service 2: Security Solutions -->
+  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60" alt="FiveM Security Solutions"/>
+    <h3 style="color: #e94057; margin: 10px 0;">Server Security & Anti-Cheat</h3>
+    <p style="font-size: 0.9em;">Comprehensive security solutions to protect your server from exploits, cheaters, and script vulnerabilities.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Anti--Cheat-System-E94057?style=flat-square" alt="Anti-Cheat"/>
+      <img src="https://img.shields.io/badge/Script-Protection-FD4556?style=flat-square" alt="Script Protection"/>
+      <img src="https://img.shields.io/badge/Exploit-Prevention-A6051A?style=flat-square" alt="Exploit Prevention"/>
+    </div>
+  </div>
+  
+  <!-- Service 3: UI/UX Design -->
+  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/000000/web-design.png" width="60" alt="FiveM UI Design"/>
+    <h3 style="color: #00c4cc; margin: 10px 0;">UI/UX Design & Development</h3>
+    <p style="font-size: 0.9em;">Modern, responsive interfaces for your FiveM server with custom designs and seamless user experiences.</p>
+    <div>
+      <img src="https://img.shields.io/badge/NUI-Design-00C4CC?style=flat-square" alt="NUI Design"/>
+      <img src="https://img.shields.io/badge/Responsive-Interface-2BBAC5?style=flat-square" alt="Responsive Interface"/>
+      <img src="https://img.shields.io/badge/User-Experience-00A4BC?style=flat-square" alt="User Experience"/>
+    </div>
+  </div>
+  
+  <!-- Service 4: Framework Implementation -->
+  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/000000/framework.png" width="60" alt="FiveM Framework Development"/>
+    <h3 style="color: #4c8bf5; margin: 10px 0;">Framework Development</h3>
+    <p style="font-size: 0.9em;">Expert implementation of QBCore, ESX, or custom frameworks with seamless integration and optimization.</p>
+    <div>
+      <img src="https://img.shields.io/badge/QBCore-Expert-4C8BF5?style=flat-square" alt="QBCore Expert"/>
+      <img src="https://img.shields.io/badge/ESX-Integration-3A7BD5?style=flat-square" alt="ESX Integration"/>
+      <img src="https://img.shields.io/badge/Custom-Frameworks-2766CE?style=flat-square" alt="Custom Frameworks"/>
+    </div>
+  </div>
+  
+  <!-- Service 5: Server Optimization -->
+  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/000000/speed.png" width="60" alt="FiveM Server Optimization"/>
+    <h3 style="color: #2ecc71; margin: 10px 0;">Performance Optimization</h3>
+    <p style="font-size: 0.9em;">Maximize your server's performance with resource optimization, script refactoring, and infrastructure improvements.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Resource-Optimization-2ECC71?style=flat-square" alt="Resource Optimization"/>
+      <img src="https://img.shields.io/badge/Script-Efficiency-27AE60?style=flat-square" alt="Script Efficiency"/>
+      <img src="https://img.shields.io/badge/FPS-Enhancement-219653?style=flat-square" alt="FPS Enhancement"/>
+    </div>
+  </div>
+  
+  <!-- Service 6: Business Solutions -->
+  <div align="center" style="background: linear-gradient(135deg, #1a1c2c, #222437); border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/96/000000/commercial-development.png" width="60" alt="FiveM Business Solutions"/>
+    <h3 style="color: #9b59b6; margin: 10px 0;">Business Solutions</h3>
+    <p style="font-size: 0.9em;">Complete business systems for FiveM servers including jobs, economy, property management, and custom mechanics.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Economy-Systems-9B59B6?style=flat-square" alt="Economy Systems"/>
+      <img src="https://img.shields.io/badge/Job-Mechanics-8E44AD?style=flat-square" alt="Job Mechanics"/>
+      <img src="https://img.shields.io/badge/Property-Management-7D3C98?style=flat-square" alt="Property Management"/>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌟 Full-Service FiveM Development Solutions 🌟</h3>
+  <p>From concept to deployment, we deliver end-to-end services for your FiveM server's success.</p>
+  <a href="https://eyestore.tebex.io/">
+    <img src="https://img.shields.io/badge/View_Service_Catalog-4A90E2?style=for-the-badge&logo=shopify&logoColor=white" alt="View Services"/>
+  </a>
+</div>
 
 <hr>
 
@@ -193,5 +218,11 @@ fivem developer, custom script developer, fivem freelancer, qbcore developer, es
 fivem ui designer, server security specialist, fivem frameworks, fivem server optimization,
 premium fivem solutions, technical consultant, business solutions, framework implementation,
 fivem professional, lua programmer, javascript developer, fivem technical architect,
-server performance, database optimization, fivem expert, resource development
+server performance, database optimization, fivem expert, resource development,
+fiveM anti-cheat, fiveM security solutions, FiveM custom UI, FiveM NUI design,
+FiveM business systems, roleplay server development, FiveM performance optimization,
+QBCore expert developer, ESX framework specialist, FiveM script protection,
+fivem resource optimization, server FPS improvement, custom FiveM scripts,
+premium script development, FiveM economy systems, FiveM job systems,
+fivem property management, fivem script programmer, fivem consulting
 -->
