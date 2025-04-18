@@ -25,61 +25,129 @@
 
 <h2 align="center">💼 Premium FiveM Services</h2>
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:15px;margin:20px 0">
-  <!-- 1: Custom Script Development -->
-  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #1E3A8A;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
-    <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50" height="50" alt="Custom Scripts"/>
-    <h3 style="color:#38bdf8;font-size:18px;margin:10px 0;font-weight:600">Custom Script Development</h3>
-    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Tailored FiveM scripts with optimized performance and scalable architecture.</p>
-    <span><img src="https://img.shields.io/badge/FiveM-Scripts-4B32C3?style=flat-square&labelColor=0f172a" alt="FiveM Scripts"/></span>
-  </div>
-
-  <!-- 2: Security Solutions -->
-  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #9F1239;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
-    <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50" height="50" alt="FiveM Security"/>
-    <h3 style="color:#f43f5e;font-size:18px;margin:10px 0;font-weight:600">Server Security & Anti-Cheat</h3>
-    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Protect your server from exploits, cheaters, and script vulnerabilities.</p>
-    <span><img src="https://img.shields.io/badge/Anti--Cheat-System-E94057?style=flat-square&labelColor=0f172a" alt="Anti-Cheat"/></span>
-  </div>
-
-  <!-- 3: UI/UX Design -->
-  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #0891b2;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
-    <img src="https://img.icons8.com/fluency/96/000000/web-design.png" width="50" height="50" alt="FiveM UI Design"/>
-    <h3 style="color:#06b6d4;font-size:18px;margin:10px 0;font-weight:600">UI/UX Design & Development</h3>
-    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Modern, responsive interfaces with seamless user experiences.</p>
-    <span><img src="https://img.shields.io/badge/NUI-Design-00C4CC?style=flat-square&labelColor=0f172a" alt="NUI Design"/></span>
-  </div>
-
-  <!-- 4: Framework Development -->
-  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #1e40af;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
-    <img src="https://img.icons8.com/fluency/96/000000/settings-3.png" width="50" height="50" alt="FiveM Framework"/>
-    <h3 style="color:#3b82f6;font-size:18px;margin:10px 0;font-weight:600">Framework Development</h3>
-    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Expert implementation of QBCore, ESX, or custom frameworks.</p>
-    <span><img src="https://img.shields.io/badge/QBCore-Expert-4C8BF5?style=flat-square&labelColor=0f172a" alt="QBCore Expert"/></span>
-  </div>
-
-  <!-- 5: Performance Optimization -->
-  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #166534;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
-    <img src="https://img.icons8.com/fluency/96/000000/speed.png" width="50" height="50" alt="FiveM Optimization"/>
-    <h3 style="color:#22c55e;font-size:18px;margin:10px 0;font-weight:600">Performance Optimization</h3>
-    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Maximize server performance with resource optimization.</p>
-    <span><img src="https://img.shields.io/badge/Resource-Optimization-2ECC71?style=flat-square&labelColor=0f172a" alt="Resource Optimization"/></span>
-  </div>
-
-  <!-- 6: Business Solutions -->
-  <div align="center" style="background:linear-gradient(45deg,#0f172a,#1e293b);border-radius:12px;padding:20px;border:1px solid #7e22ce;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s">
-    <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50" height="50" alt="FiveM Business"/>
-    <h3 style="color:#a855f7;font-size:18px;margin:10px 0;font-weight:600">Business Solutions</h3>
-    <p style="font-size:14px;opacity:0.8;margin-bottom:15px">Complete business systems for FiveM servers with economy integration.</p>
-    <span><img src="https://img.shields.io/badge/Economy-Systems-9B59B6?style=flat-square&labelColor=0f172a" alt="Economy Systems"/></span>
-  </div>
+<div align="center">
+  <p style="margin-bottom:30px;font-size:16px;max-width:800px;margin-left:auto;margin-right:auto">
+    Professional, high-performance solutions for your FiveM server. Each product is meticulously crafted for optimal performance and seamless integration.
+  </p>
 </div>
 
-<div align="center" style="margin:25px 0;background:linear-gradient(90deg,#0f172a,#1e1e2f,#0f172a);padding:20px;border-radius:12px;box-shadow:0 8px 32px rgba(31,38,135,0.37);border:1px solid rgba(255,255,255,0.1)">
-  <h3 style="margin:0 0 15px;color:#f8fafc;font-size:20px;letter-spacing:1px">🚀 Full-Service Development Solutions</h3>
-  <p style="margin:0 0 20px;font-size:14px;opacity:0.8;max-width:580px">From concept to deployment, delivering end-to-end services for your server's success.</p>
-  <a href="https://eyestore.tebex.io/" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/View_Service_Catalog-4A90E2?style=for-the-badge&logo=shopify&logoColor=white" alt="View Services"/>
+<!-- Modern Product Showcase Grid -->
+<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:25px;margin:30px 0">
+  
+  <!-- Premium Script Package -->
+  <div align="center" style="background:linear-gradient(135deg,#0f172a,#1e293b);border-radius:12px;padding:25px;border:1px solid #38bdf8;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s;position:relative;overflow:hidden">
+    <div style="position:absolute;top:0;right:0;background:#38bdf8;color:#0f172a;font-weight:bold;padding:5px 15px;border-bottom-left-radius:8px">$299</div>
+    <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64" height="64" alt="Premium Scripts"/>
+    <h3 style="color:#38bdf8;font-size:20px;margin:15px 0;font-weight:600">Premium Script Package</h3>
+    <p style="font-size:14px;opacity:0.9;margin-bottom:15px;line-height:1.5">Complete custom script development with performance optimization and full documentation.</p>
+    <ul style="text-align:left;padding-left:20px;margin-bottom:20px;font-size:14px">
+      <li>Source code access</li>
+      <li>3 months support</li>
+      <li>Implementation assistance</li>
+      <li>Custom UI design</li>
+    </ul>
+    <a href="https://eyestore.tebex.io/" style="display:inline-block;background:#38bdf8;color:#0f172a;text-decoration:none;padding:8px 20px;border-radius:6px;font-weight:600;transition:all 0.2s">
+      View Details
+    </a>
+  </div>
+
+  <!-- Server Security Suite -->
+  <div align="center" style="background:linear-gradient(135deg,#0f172a,#1e293b);border-radius:12px;padding:25px;border:1px solid #f43f5e;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s;position:relative;overflow:hidden">
+    <div style="position:absolute;top:0;right:0;background:#f43f5e;color:#0f172a;font-weight:bold;padding:5px 15px;border-bottom-left-radius:8px">$349</div>
+    <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64" height="64" alt="Security Suite"/>
+    <h3 style="color:#f43f5e;font-size:20px;margin:15px 0;font-weight:600">Server Security Suite</h3>
+    <p style="font-size:14px;opacity:0.9;margin-bottom:15px;line-height:1.5">Comprehensive anti-cheat system with exploit protection and security monitoring dashboard.</p>
+    <ul style="text-align:left;padding-left:20px;margin-bottom:20px;font-size:14px">
+      <li>Anti-injection protection</li>
+      <li>Resource monitoring</li>
+      <li>Admin control panel</li>
+      <li>Regular updates</li>
+    </ul>
+    <a href="https://eyestore.tebex.io/" style="display:inline-block;background:#f43f5e;color:#0f172a;text-decoration:none;padding:8px 20px;border-radius:6px;font-weight:600;transition:all 0.2s">
+      View Details
+    </a>
+  </div>
+
+  <!-- UI/UX Design Package -->
+  <div align="center" style="background:linear-gradient(135deg,#0f172a,#1e293b);border-radius:12px;padding:25px;border:1px solid #06b6d4;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s;position:relative;overflow:hidden">
+    <div style="position:absolute;top:0;right:0;background:#06b6d4;color:#0f172a;font-weight:bold;padding:5px 15px;border-bottom-left-radius:8px">$249</div>
+    <img src="https://img.icons8.com/fluency/96/000000/web-design.png" width="64" height="64" alt="UI Design"/>
+    <h3 style="color:#06b6d4;font-size:20px;margin:15px 0;font-weight:600">UI/UX Design Package</h3>
+    <p style="font-size:14px;opacity:0.9;margin-bottom:15px;line-height:1.5">Modern, responsive interface design with seamless user experience and performance optimization.</p>
+    <ul style="text-align:left;padding-left:20px;margin-bottom:20px;font-size:14px">
+      <li>Responsive design</li>
+      <li>Custom animations</li>
+      <li>Theme customization</li>
+      <li>Optimized for performance</li>
+    </ul>
+    <a href="https://eyestore.tebex.io/" style="display:inline-block;background:#06b6d4;color:#0f172a;text-decoration:none;padding:8px 20px;border-radius:6px;font-weight:600;transition:all 0.2s">
+      View Details
+    </a>
+  </div>
+
+  <!-- Framework Implementation -->
+  <div align="center" style="background:linear-gradient(135deg,#0f172a,#1e293b);border-radius:12px;padding:25px;border:1px solid #3b82f6;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s;position:relative;overflow:hidden">
+    <div style="position:absolute;top:0;right:0;background:#3b82f6;color:#0f172a;font-weight:bold;padding:5px 15px;border-bottom-left-radius:8px">$499</div>
+    <img src="https://img.icons8.com/fluency/96/000000/settings-3.png" width="64" height="64" alt="Framework"/>
+    <h3 style="color:#3b82f6;font-size:20px;margin:15px 0;font-weight:600">Framework Implementation</h3>
+    <p style="font-size:14px;opacity:0.9;margin-bottom:15px;line-height:1.5">Expert implementation of QBCore, ESX, or custom frameworks with full server configuration.</p>
+    <ul style="text-align:left;padding-left:20px;margin-bottom:20px;font-size:14px">
+      <li>Framework setup</li>
+      <li>Database configuration</li>
+      <li>Resource integration</li>
+      <li>Performance tuning</li>
+    </ul>
+    <a href="https://eyestore.tebex.io/" style="display:inline-block;background:#3b82f6;color:#0f172a;text-decoration:none;padding:8px 20px;border-radius:6px;font-weight:600;transition:all 0.2s">
+      View Details
+    </a>
+  </div>
+
+  <!-- Performance Optimization -->
+  <div align="center" style="background:linear-gradient(135deg,#0f172a,#1e293b);border-radius:12px;padding:25px;border:1px solid #22c55e;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s;position:relative;overflow:hidden">
+    <div style="position:absolute;top:0;right:0;background:#22c55e;color:#0f172a;font-weight:bold;padding:5px 15px;border-bottom-left-radius:8px">$199</div>
+    <img src="https://img.icons8.com/fluency/96/000000/speed.png" width="64" height="64" alt="Performance"/>
+    <h3 style="color:#22c55e;font-size:20px;margin:15px 0;font-weight:600">Performance Optimization</h3>
+    <p style="font-size:14px;opacity:0.9;margin-bottom:15px;line-height:1.5">Maximize server performance with resource optimization and server configuration tuning.</p>
+    <ul style="text-align:left;padding-left:20px;margin-bottom:20px;font-size:14px">
+      <li>Resource audit</li>
+      <li>Server optimization</li>
+      <li>Script cleanup</li>
+      <li>Performance report</li>
+    </ul>
+    <a href="https://eyestore.tebex.io/" style="display:inline-block;background:#22c55e;color:#0f172a;text-decoration:none;padding:8px 20px;border-radius:6px;font-weight:600;transition:all 0.2s">
+      View Details
+    </a>
+  </div>
+
+  <!-- Business System -->
+  <div align="center" style="background:linear-gradient(135deg,#0f172a,#1e293b);border-radius:12px;padding:25px;border:1px solid #a855f7;box-shadow:0 10px 25px rgba(2,12,27,0.7);transition:all 0.3s;position:relative;overflow:hidden">
+    <div style="position:absolute;top:0;right:0;background:#a855f7;color:#0f172a;font-weight:bold;padding:5px 15px;border-bottom-left-radius:8px">$399</div>
+    <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="64" height="64" alt="Business"/>
+    <h3 style="color:#a855f7;font-size:20px;margin:15px 0;font-weight:600">Business System</h3>
+    <p style="font-size:14px;opacity:0.9;margin-bottom:15px;line-height:1.5">Complete business system with economy integration, employee management and owner controls.</p>
+    <ul style="text-align:left;padding-left:20px;margin-bottom:20px;font-size:14px">
+      <li>Multiple business types</li>
+      <li>Employee management</li>
+      <li>Inventory system</li>
+      <li>Financial tracking</li>
+    </ul>
+    <a href="https://eyestore.tebex.io/" style="display:inline-block;background:#a855f7;color:#0f172a;text-decoration:none;padding:8px 20px;border-radius:6px;font-weight:600;transition:all 0.2s">
+      View Details
+    </a>
+  </div>
+  
+</div>
+
+<!-- Enterprise Solutions Banner -->
+<div align="center" style="margin:35px 0;background:linear-gradient(90deg,#0f172a,#1e1e2f,#0f172a);padding:30px;border-radius:12px;box-shadow:0 8px 32px rgba(31,38,135,0.37);border:1px solid rgba(255,255,255,0.1)">
+  <img src="https://img.icons8.com/fluency/96/000000/commercial.png" width="72" height="72" alt="Enterprise Solutions"/>
+  <h3 style="margin:15px 0;color:#f8fafc;font-size:24px;letter-spacing:1px">Enterprise Solutions</h3>
+  <p style="margin:0 0 20px;font-size:16px;opacity:0.9;max-width:700px;line-height:1.6">
+    Need a comprehensive solution? Our enterprise packages include customized development, ongoing support, and server management - all tailored to your specific requirements.
+  </p>
+  <div style="margin-top:20px;font-size:18px;font-weight:bold;color:#f8fafc">Starting at $999</div>
+  <a href="https://eyestore.tebex.io/" style="text-decoration:none;display:inline-block;margin-top:15px">
+    <img src="https://img.shields.io/badge/Request_Custom_Quote-4A90E2?style=for-the-badge&logo=shopify&logoColor=white" alt="Request Quote"/>
   </a>
 </div>
 
