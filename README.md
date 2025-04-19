@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20Raider&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%"/>
+
+![20250419_1106_Modern Yazılımcı Alanı_simple_compose_01js6h8hxqf678p7bbeq0tkq5f](https://github.com/user-attachments/assets/8b16b11a-4829-4af9-90ac-dfb3d9757f47)
   
   <!-- Matrix Animation -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Matrix Animation"/>
